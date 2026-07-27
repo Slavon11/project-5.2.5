@@ -1,0 +1,16 @@
+.skillsInput[disabled] {
+  background-color: #228be6;
+  color: #ffffff;
+  opacity: 0.4;
+}
+
+.pill {
+  gap: 6px;
+}
+.pill button {
+  color: #0f0f10;
+  opacity: 0.3;
+  size: 12px;
+  font-size: 12px;
+  font-weight: 700;
+}
